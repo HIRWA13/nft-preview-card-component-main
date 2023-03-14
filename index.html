@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <title>Frontend Mentor | NFT preview card component</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+    <style>
+      .attribution {
+        font-size: 11px;
+        text-align: center;
+        color: white;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="card">
+        <picture>
+          <img
+            class="diamond"
+            src="./images/image-equilibrium.jpg"
+            alt="floating colorful diamond"
+        /></picture>
+
+        <div class="card__content">
+          <h1 class="card__title">Equilibrium #3429</h1>
+          <p class="description">
+            Our Equilibrium collection promotes balance and calm.
+          </p>
+          <div class="flex__group">
+            <div class="etherium">
+              <img src="./images/icon-ethereum.svg" alt="entherium" />
+              <p class="amount">0.041 ETH</p>
+            </div>
+            <div class="time__left">
+              <img src="./images/icon-clock.svg" alt="clock" />
+              <p class="days__left">3 days left</p>
+            </div>
+          </div>
+          <div class="line"></div>
+          <div class="author">
+            <img
+              class="avatar"
+              src="./images/image-avatar.png"
+              alt="Image of author Jules Wyvern"
+            />
+            <p>Creation of <span>Jules Wyvern</span></p>
+          </div>
+        </div>
+      </section>
+
+      <div class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by <a href="https://github.com/HIRWA13">HIRWA</a>.
+      </div>
+    </main>
+  </body>
+</html>
