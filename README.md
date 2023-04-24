@@ -7,10 +7,6 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Links
-
-- Live Site URL: [NFT Preview card component](https://frolicking-kleicha-beb140.netlify.app/)
-
 ## Author
 
 - Twitter - [@itshirwa](https://www.twitter.com/itshirwa)
@@ -26,7 +22,7 @@ The designs were created to the following widths:
 - Mobile: 375px
 - Desktop: 1440px
 
-## Colors
+## Colors used
 
 ### Primary
 
