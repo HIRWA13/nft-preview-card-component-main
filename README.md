@@ -7,19 +7,13 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
-
-![](./screenshot.jpg)
-
 ### Links
 
-- Live Site URL: [NFT Preview card component](https://your-live-site-url.com)
+- Live Site URL: [NFT Preview card component](https://frolicking-kleicha-beb140.netlify.app/)
 
 ## Author
 
-- Website - [HIRWA13](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@itshirwa](https://www.twitter.com/yourusername)
+- Twitter - [@itshirwa](https://www.twitter.com/itshirwa)
 
 ## Style guides:
 
